@@ -1,2 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
+
+Sitemap: https://제일현관문.kr/sitemap.xml
